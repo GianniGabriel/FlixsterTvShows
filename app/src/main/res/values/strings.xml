@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlixsterTVShows</string>
+    <string name="tv_show_details_activity_label">TV Show Details</string>
+</resources>
