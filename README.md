@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and102/BiRWiqXw.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<a href="https://gyazo.com/41928695449c53dfda68484ca5e5fb87"><img src="https://i.gyazo.com/41928695449c53dfda68484ca5e5fb87.gif" alt="Image from Gyazo" width="376"/></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
